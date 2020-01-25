@@ -2,7 +2,7 @@
 A short description about Texas state in USA
 
 ## Texas
-Texas is one of the states in USA. It is the second largest state in United states of America. Capital of Texas state is Austin.San Antonio is the second most populous city in Texas.
+Texas is one of the states in USA. It is the second largest state in United states of America. Capital of Texas state is Austin.San Antonio is the second most populous city in Texas. Dallas is the largest city in Texas
 
 ### Cities of Texas
 1. Houston
@@ -26,15 +26,11 @@ Texas is one of the states in USA. It is the second largest state in United stat
 - Space Center Houston, Houston Museum of Natural Science, Houston Zoo are the places to visit in Houston
 ![Space Center Houston](https://lh5.googleusercontent.com/proxy/sAyt9iU2ufty5dhxQSh1pAQgCUEUyoOSZFh6yFe3me9O78iMbCsl7msFaaYup_G0qaDtRCJEtwLEVUTHHKP00lfKDt4pmcDRVNB8xcKXMuNll1-YjPbHSL3lwyXSf5IFs73cnOTD8quchKWCzTE_1-BkgFOc-9FlzFAXkZ0YbThl=w296-h202-n-k-no)
 
-###### Dallas
-- Largest city in Texas city
-- Dallas world aquarium, the Dallas Museum of art, the Dallas Arboretum and Botanical garden are the places to visit in Dallas
-![Dallas](https://www.dallasartsdistrict.org/wp-content/uploads/Haubert-Joseph-Dallas-Arts-District-Skyline-View.jpg)
-
-####### References
+###### References
 - To know more about above mentioned cities, follow below links
 https://en.wikipedia.org/wiki/List_of_cities_in_Texas_by_population
 https://www.planetware.com/tourist-attractions-/dallas-us-tx-d.htm
+
 https://theculturetrip.com/north-america/usa/texas/articles/20-must-visit-attractions-in-austin/
 
 
