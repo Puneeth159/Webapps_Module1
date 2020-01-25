@@ -1,35 +1,43 @@
 # Webapps_Module1
-A description about Indian cricket team
+A short description about Texas state in USA
 
-## Indian Cricket Team
-Cricket is a sport played between two teams of any eligible country which involves bat and ball. It was first played in 16th century in England. International Cricket Council(ICC) is the governing body of cricket. Each country involved in cricket has its own governing body. It is played in three formats such as Odi, test and T20I. Indian cricket team is governed by Board of Control for Cricket in India(BCCI). Virat Kohli and Ravi Shastri are the current captain and coach of Indian cricket team.
-![Indian Cricket team](https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/1200px-Cricket_India_Crest.svg.png)
+## Texas
+Texas is one of the states in USA. It is the second largest state in United states of America. Capital of Texas state is Austin.San Antonio is the second most populous city in Texas.
 
-### My favourite Players of Indian Cricket team
-1. Virat Kohli 
-1. Rohit Sharma
+### Cities of Texas
+1. Houston
+1. Austin
+1. San Antonio
+1. Dallas
+1. El Paso
+1. Arlington
+1. Corpus Christi
+1. Plano
 
-#### Virat Kohli
-- Born in Delhi in 1988
-- Right hand top-order batsmen
-- Captain of Indian Cricket team
-- Highest individual scores in ODI, Test and T20I are 183, 254 and 94 respectively
-- Received many ICC awards in 2012, 2017 and 2018 respectively
-- Also received the Arjuna award in 2013, the Padma Shri in 2017 and the Rajiv Gandhi khel Ratna award in 2018
-![Virat Kohli](https://upload.wikimedia.org/wikipedia/commons/7/7c/The_President%2C_Shri_Pranab_Mukherjee_presenting_the_Padma_Shri_Award_to_Shri_Virat_Kohli%2C_at_a_Civil_Investiture_Ceremony%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_March_30%2C_2017_%28cropped%29.jpg)
+#### Austin
+- Capital city of Texas state
+- Eleventh most populous city in United States
+- Zilker Nature preserve, Texas capitol building, Lady bird lake are the places to visit in Austin
+![Austin](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Austin_August_2019_19_%28skyline_and_Lady_Bird_Lake%29.jpg/1200px-Austin_August_2019_19_%28skyline_and_Lady_Bird_Lake%29.jpg)
+![Texas Capitol Building](https://img.theculturetrip.com/768x432/wp-content/uploads/2019/01/fa922p.jpg)
 
-##### Rohit Sharma
-- Born in Maharashtra in 1987
-- Right hand top-order batsmen
-- Vice-captain of Indian Cricket team
-- Highest individual scores in ODI, Test and T20I are 264, 212 and 118 respectively
-- Honoured with Arjuna award in 2015
-![Rohit Sharma](https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/07/GettyImages-1153223842.jpg?quality=90&strip=all&zoom=1&resize=644%2C444&ssl=1)
+##### Houston
+- Most populous city in Texas state and fourth populous city in United States
+- Space Center Houston, Houston Museum of Natural Science, Houston Zoo are the places to visit in Houston
+![Space Center Houston](https://lh5.googleusercontent.com/proxy/sAyt9iU2ufty5dhxQSh1pAQgCUEUyoOSZFh6yFe3me9O78iMbCsl7msFaaYup_G0qaDtRCJEtwLEVUTHHKP00lfKDt4pmcDRVNB8xcKXMuNll1-YjPbHSL3lwyXSf5IFs73cnOTD8quchKWCzTE_1-BkgFOc-9FlzFAXkZ0YbThl=w296-h202-n-k-no)
 
-###### References
-- To know more about above mentioned players, follow below links
-https://en.wikipedia.org/wiki/Virat_Kohli
-https://en.wikipedia.org/wiki/Rohit_Sharma
+###### Dallas
+- Largest city in Texas city
+- Dallas world aquarium, the Dallas Museum of art, the Dallas Arboretum and Botanical garden are the places to visit in Dallas
+![Dallas](https://www.dallasartsdistrict.org/wp-content/uploads/Haubert-Joseph-Dallas-Arts-District-Skyline-View.jpg)
+
+####### References
+- To know more about above mentioned cities, follow below links
+https://en.wikipedia.org/wiki/List_of_cities_in_Texas_by_population
+https://www.planetware.com/tourist-attractions-/dallas-us-tx-d.htm
+https://theculturetrip.com/north-america/usa/texas/articles/20-must-visit-attractions-in-austin/
+
+
 
 
 
