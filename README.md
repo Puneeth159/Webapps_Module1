@@ -28,19 +28,19 @@ Cricket is a sport played between two teams of any eligible country which involv
 - Honoured with Arjuna award in 2015
 ![Rohit Sharma](https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/07/GettyImages-1153223842.jpg?quality=90&strip=all&zoom=1&resize=644%2C444&ssl=1)
 
-###### Shikhar Dhawan
+######Shikhar Dhawan
 - Born in Delhi in 1985
 - Left hand top-order batsmen
 - Highest individual scores in ODI, Test and T20I are 143, 190 and 92 respectively
 ![Shikhar Dhawan](https://images.newindianexpress.com/uploads/user/imagelibrary/2019/11/21/w900X450/Shikhar_Dhawan_PTI.jpg)
 
-####### Jasprit Bumrah
+#######Jasprit Bumrah
 - Born in Gujarat in 1993
 - Right-arm fast bowler
 - Best bowling figures in ODI, Test and T20I are 5/27, 6/27 and 3/11 respectively
 ![Jasprit Bumrah](https://img.etimg.com/thumb/msid-72377415,width-643,imgsize-304867,resizemode-4/early-to-rise-is-my-success-mantra-says-jasprit-bumrah-.jpg)
 
-######## References
+########References
 - To know more about above mentioned players, follow below links
 https://en.wikipedia.org/wiki/Virat_Kohli
 https://en.wikipedia.org/wiki/Rohit_Sharma
