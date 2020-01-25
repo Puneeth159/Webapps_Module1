@@ -2,7 +2,7 @@
 A short description about Texas state in USA
 
 ## Texas
-Texas is one of the states in USA. It is the second largest state in United states of America. Capital of Texas state is Austin.San Antonio is the second most populous city in Texas. Dallas is the largest city in Texas
+Texas is one of the states in USA. It is the second largest state in United states of America. Capital of Texas state is Austin.San Antonio is the second most populous city in Texas. Dallas is the largest city in Texas state.
 
 ### Cities of Texas
 1. Houston
@@ -29,6 +29,7 @@ Texas is one of the states in USA. It is the second largest state in United stat
 ###### References
 - To know more about above mentioned cities, follow below links
 https://en.wikipedia.org/wiki/List_of_cities_in_Texas_by_population
+
 https://www.planetware.com/tourist-attractions-/dallas-us-tx-d.htm
 
 https://theculturetrip.com/north-america/usa/texas/articles/20-must-visit-attractions-in-austin/
