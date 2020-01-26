@@ -29,11 +29,11 @@ Texas is one of the states in USA. It is the second largest state in United stat
 ## References
 - To know more about above mentioned cities, follow below links
 
-[Texas Cities](https://en.wikipedia.org/wiki/List_of_cities_in_Texas_by_population)
+1. [Texas Cities](https://en.wikipedia.org/wiki/List_of_cities_in_Texas_by_population)
 
-[Austin Places To Visit](https://theculturetrip.com/north-america/usa/texas/articles/20-must-visit-attractions-in-austin/)
+1. [Austin Places To Visit](https://theculturetrip.com/north-america/usa/texas/articles/20-must-visit-attractions-in-austin/)
 
-[Houston Places To Visit](https://www.planetware.com/tourist-attractions-/houston-us-tx-h.htm)
+1. [Houston Places To Visit](https://www.planetware.com/tourist-attractions-/houston-us-tx-h.htm)
 
 
 
